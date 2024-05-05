@@ -22,8 +22,8 @@ Rust implementations of cryptographic algorithms
     </tr>
     <tr>
         <td>AES</td>
-        <td><a style="text-decoration: none">❌</a></td>
-        <td><a style="text-decoration: none">❌</a></td>
+        <td><a style="text-decoration: none" href="./src/aes/">✅</a></td>
+        <td><a style="text-decoration: none" href="./tests/test_aes/">✅</a></td>
     </tr>
     </tbody>
 </table>
